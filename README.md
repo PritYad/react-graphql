@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this project, follow the below steps:
+1) Clone or fork https://github.com/PritYad/react-graphql repo.
+2) Run npm i.
+3) Run npm start.
+
+NOTE: The play buton in the website is dummy only, it does nothing on clicking.
+1) You can search a movie by typing in the input text box and clicking search button.
+        OR
+2) Popular movies of Tom cruise will be displayed by default.
+
 ## Available Scripts
 
 In the project directory, you can run:
